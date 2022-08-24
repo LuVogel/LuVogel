@@ -6,7 +6,7 @@ ___
 
 ___
 
-`
+```
 name: 
     Lukas Vogel
   
@@ -21,7 +21,7 @@ technical_interests:
      Java
      Python
      Game Development
-`
+```
 
 <!--
 **LuVogel/LuVogel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
