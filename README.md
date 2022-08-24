@@ -1,10 +1,10 @@
 ## Hi! I'm Lukas! 👋
 
----
+___
 
 ###Details
 
----
+___
 
 `
 name: 
