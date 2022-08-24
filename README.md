@@ -1,4 +1,27 @@
-### Hi there 👋
+## Hi! I'm Lukas! 👋
+
+---
+
+###Details
+
+---
+
+`
+name: 
+    Lukas Vogel
+  
+location: 
+     Switzerland
+     
+currently_studying:
+     Computer Science (BSc)
+
+technical_interests: 
+     Windows
+     Java
+     Python
+     Game Development
+`
 
 <!--
 **LuVogel/LuVogel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
